@@ -1,0 +1,21 @@
+{
+  "name": "s3m-lambda-authorizer",
+  "version": "1.0.0",
+  "description": "authorize example for the s3m Architecture",
+  "main": "index.js",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lambda",
+    "Authorzer",
+    "Authorizer",
+    "nodejs"
+  ],
+  "author": "EL GAFA NAOUFAL",
+  "license": "ISC"
+}
